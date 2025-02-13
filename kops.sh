@@ -123,7 +123,7 @@ KOPS_CLUSTER_NAME="mykopsbucket.in"
 NODE_COUNT=2
 CONTROL_PLANE_COUNT=1
 NODE_SIZE="t2.micro"
-CONTROL_PLANE_SIZE="t3.medium"
+CONTROL_PLANE_SIZE="t2.micro"
 DNS_TYPE="private"
 
 # Get the first available AWS zone dynamically
