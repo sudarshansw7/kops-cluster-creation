@@ -122,7 +122,7 @@ KOPS_STATE_STORE="s3://mykopsbucket.in.k8s"
 KOPS_CLUSTER_NAME="mykopsbucket.in"
 NODE_COUNT=2
 CONTROL_PLANE_COUNT=1
-NODE_SIZE="t3.medium"
+NODE_SIZE="t2.micro"
 CONTROL_PLANE_SIZE="t3.medium"
 DNS_TYPE="private"
 
