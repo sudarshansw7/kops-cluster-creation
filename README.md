@@ -1,3 +1,6 @@
+
+#NOTE: CREATE CLUSTER IN NORTH VIRIGINIA
+===========================================================
 # Create a AMAzon Linux Server
 # Navigate to root user
     sudo su -
